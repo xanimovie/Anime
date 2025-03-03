@@ -18,6 +18,7 @@
       "ep8": "http://peer.tci.cdn.146.dl150m.info/tv/Solo%20Leveling/fasl2480/Solo.Leveling.S02E08.480p.WEB-DL.SoftSub.DigiMoviez.mkv",
       "ep9": "http://peer.tci.cdn.146.dl150m.info/tv/Solo%20Leveling/fasl2480/Solo.Leveling.S02E09.480p.WEB-DL.SoftSub.DigiMoviez.mkv"
     },
-    "Trailer": "https://www.namasha.com/videos/dl/7493801505-360p/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%D9%81%D8%B5%D9%84-2-%D8%A7%D9%86%DB%8C%D9%85%D9%87-%D8%AA%DA%A9-%D8%B1%D9%88-%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA--360p.mp4"
+    "Trailer": "https://www.namasha.com/videos/dl/7493801505-360p/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%D9%81%D8%B5%D9%84-2-%D8%A7%D9%86%DB%8C%D9%85%D9%87-%D8%AA%DA%A9-%D8%B1%D9%88-%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA--360p.mp4",
+    "Music": "https://animegate.net/storage/ftp/anime-themes/19930/SoloLevelingS2-OP1.ogg"
   }
 ]
