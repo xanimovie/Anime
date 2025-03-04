@@ -31,6 +31,19 @@
     "t": "شونن ,فانتزی , اکشن , خشونت زیاد , Urban Fantasy",
     "Trailer": "https://www.namasha.com/videos/dl/7371407525-1080p/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D9%86%DB%8C%D9%85%D9%87-%D9%85%D8%B1%D8%AF-%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C---Chainsaw-Man---1080p.mp4",
     "Music": "https://animegate.net/storage/ftp/anime-themes/13917/ChainsawMan-OP1-NCBD1080.ogg",
-    "link ": {}
+    "link ": {
+"ep1": "http://uplink.tci2.giftmond.ir/newtv/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2001.[SS][480][AioFilm.com].mkv",
+      "ep2": "http://uplink.tci2.giftmond.ir/newtv/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2002.[SS][480][AioFilm.com].mkv",
+      "ep3": "http://uplink.tci2.giftmond.ir/newtv/Chainsaw%20Man/fasl1480/Chainsaw.Man.E03.540p.WEB-DL.SS.mkv",
+      "ep4": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2004.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+      "ep5": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1720/Chainsaw%20Man%20-%2005.%5BSS%5D%5B720%5D%5BAioFilm.com%5D.mkv",
+      "ep6": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2006.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+      "ep7": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2007.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+      "ep8": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2008.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+      "ep9": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2009.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+      "ep10": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2010.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+      "ep11": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1720/Chainsaw.Man.S01E11.720p.WEB-DL.SoftSub.DigiMoviez.mkv",
+      "ep12": "http://peer.tci.229.giftmond.ir/NEWTV/Chainsaw%20Man/fasl1480/Chainsaw%20Man%20-%2012.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+}
   }
 ]
