@@ -23,7 +23,7 @@
   },
   {
     "nameEn": "Solo Leveling Season 2: Arise from the Shadow",
-    "nameFa": "تک رو - سولو لِوِلِینگ",
+    "nameFa": "تک vvvvvvرو - سولو لِوِلِینگ",
     "nameJa": "俺だけレベルアップな件",
     "img": "https://animegate.net/storage/anime/large-images/2024/04/1712253070-20962562307692.webp",
     "store": "فصل دوم انیمه تک رو - سولو لِوِلِینگ(Solo Leveling) .",
