@@ -42,6 +42,8 @@
     },
     "ep10": "http://peer.tci.cdn.146.dl150m.info/tv/Solo%20Leveling/fasl2480/Solo.Leveling.S02E09.480p.WEB-DL.SoftSub.DigiMoviez.mkv"
     },
+    "ep11": "http://peer.tci.cdn.146.dl150m.info/tv/Solo%20Leveling/fasl2480/Solo.Leveling.S02E09.480p.WEB-DL.SoftSub.DigiMoviez.mkv"
+    },
     "Trailer": "https://www.namasha.com/videos/dl/7371407525-1080p/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D9%86%DB%8C%D9%85%D9%87-%D9%85%D8%B1%D8%AF-%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C---Chainsaw-Man---1080p.mp4",
     "Music": "https://animegate.net/storage/ftp/anime-themes/13917/ChainsawMan-OP1-NCBD1080.ogg"
   }
